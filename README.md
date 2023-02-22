@@ -8,6 +8,6 @@ We are looking for a website where we can store different video games with their
 
 ## Environment variables
 
--Ng serve -> Start server (Angular)
+-Ng serve -> Start server (cd client)
 
--Node build/index.js -> Start server (Node.js)
+-Node build/index.js -> Start server (cd server)
